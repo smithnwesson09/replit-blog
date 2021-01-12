@@ -1,14 +1,14 @@
 {
   "name": "replit-docs",
   "version": "1.0.0",
-  "description": "This is the repo for the [documentation](https://repl.it/site/docs) for [Repl.it](https://repl.it), a powerful online IDE.",
+  "description": "Adam Schmidts Blog",
   "main": "index.js",
-  "scripts": {
+  "scripts": { 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/replit/replit.github.io.git"
+    "url": "git+https://github.com/smithnwesson09/replit-blog.github.git"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/replit/replit.github.io/issues"
   },
-  "homepage": "https://github.com/replit/replit.github.io#readme",
+  "homepage": "https://github.com/smithnwesson09/replit-blog",
   "dependencies": {
     "ejs": "^2.7.1",
     "express": "^4.17.1",
