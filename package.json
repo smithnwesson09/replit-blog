@@ -1,7 +1,7 @@
 {
-  "name": "replit-docs",
+  "name": "SONG2",
   "version": "1.0.0",
-  "description": "Adam Schmidts Blog",
+  "description": "Information is power. And I have tones of it.",
   "main": "index.js",
   "scripts": { 
     "start": "node ./index.js"
