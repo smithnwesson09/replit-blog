@@ -127,4 +127,4 @@ app.get('/:slug', (req, res) => {
 		.catch(err => errPage(res, err));
 });
 
-app.listen(3001, () => { console.log('blog is running'); });
+app.listen(3000, () => { console.log('blog is running'); });
